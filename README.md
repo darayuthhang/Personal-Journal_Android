@@ -1,6 +1,6 @@
 # PersonaJournal_Android
 
-
+<img src="https://user-images.githubusercontent.com/33853565/73470744-59bc9100-4356-11ea-83fd-d3fa037d3862.png" width=300 align=center >
 
 <img src="https://user-images.githubusercontent.com/33853565/73468250-8078c880-4352-11ea-9207-3ffd4f1c20fb.png" width=300 align=center >
 
