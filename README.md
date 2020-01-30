@@ -1,5 +1,5 @@
 # PersonaJournal_Android
 
-<img src="![Screenshot_1580081198](https://user-images.githubusercontent.com/33853565/73467843-e9ac0c00-4351-11ea-8bdf-81f6a70a7bbb.png)">
+<img src="![1](https://user-images.githubusercontent.com/33853565/73468250-8078c880-4352-11ea-9207-3ffd4f1c20fb.png))">
 
 
