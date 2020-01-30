@@ -10,3 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/33853565/73468265-84a4e600-4352-11ea-8b2e-35de9ff6cc05.png" width=300 >
 
+
+<h1> Find out more </h1>
+https://play.google.com/store/apps/details?id=com.darayuth.personaljournalapp
